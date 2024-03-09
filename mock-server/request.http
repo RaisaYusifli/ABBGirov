@@ -1,0 +1,6 @@
+// To make a request, install Rest Client , no more Postman !
+
+
+//list of test
+
+GET http://localhost:8082/test

@@ -1,0 +1,11 @@
+.react-datepicker-wrapper{
+    width: 100% !important;
+}
+.customDatePckr{
+    width: 100%;
+}
+
+.chakra-input__right-element{
+
+    z-index: 555 !important;
+}

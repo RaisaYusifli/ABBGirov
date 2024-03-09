@@ -1,0 +1,5 @@
+
+/.gitlab/       @DevOps
+/.gitlab-ci.yml @DevOps
+/jest.config.json @DevOps @front-approvers
+/package.json @front-approvers
